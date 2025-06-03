@@ -1,0 +1,19 @@
+# GitHub Pages Configuration for Sunday Morning Bakehouse
+title: Sunday Morning Bakehouse - Business Profile
+description: Complete business profile and contact information for Sunday Morning Bakehouse in Rockville, Maryland
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# SEO settings
+lang: en_US
+author: Business Profile Generator
+
+# Social media
+social:
+  name: Sunday Morning Bakehouse
+  links: []

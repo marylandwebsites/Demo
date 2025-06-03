@@ -1,0 +1,19 @@
+# GitHub Pages Configuration for Paris Baguette
+title: Paris Baguette - Business Profile
+description: Complete business profile and contact information for Paris Baguette in Rockville, Maryland
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# SEO settings
+lang: en_US
+author: Business Profile Generator
+
+# Social media
+social:
+  name: Paris Baguette
+  links: []

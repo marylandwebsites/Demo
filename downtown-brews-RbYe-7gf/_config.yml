@@ -1,0 +1,19 @@
+# GitHub Pages Configuration for Downtown Brew's
+title: Downtown Brew's - Business Profile
+description: Complete business profile and contact information for Downtown Brew's in Rockville, Maryland
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# SEO settings
+lang: en_US
+author: Business Profile Generator
+
+# Social media
+social:
+  name: Downtown Brew's
+  links: []

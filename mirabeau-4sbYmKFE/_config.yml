@@ -1,0 +1,19 @@
+# GitHub Pages Configuration for Mirabeau
+title: Mirabeau - Business Profile
+description: Complete business profile and contact information for Mirabeau in Rockville, Maryland
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# SEO settings
+lang: en_US
+author: Business Profile Generator
+
+# Social media
+social:
+  name: Mirabeau
+  links: []

@@ -1,0 +1,19 @@
+# GitHub Pages Configuration for Shafa Blends
+title: Shafa Blends - Business Profile
+description: Complete business profile and contact information for Shafa Blends in Rockville, Maryland
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# SEO settings
+lang: en_US
+author: Business Profile Generator
+
+# Social media
+social:
+  name: Shafa Blends
+  links: []

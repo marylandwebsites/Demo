@@ -1,0 +1,19 @@
+# GitHub Pages Configuration for Filicori Zecchini
+title: Filicori Zecchini - Business Profile
+description: Complete business profile and contact information for Filicori Zecchini in Rockville, Maryland
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# SEO settings
+lang: en_US
+author: Business Profile Generator
+
+# Social media
+social:
+  name: Filicori Zecchini
+  links: []
